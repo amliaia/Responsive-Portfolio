@@ -23,6 +23,8 @@ Project is created with:
 ## Resources
 W3Schools.com 
 
+##Links
+
 Linkedin Link:
 https://www.linkedin.com/in/amelia-sanchez-3734541b8/
 
